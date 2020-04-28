@@ -5,7 +5,7 @@
 
 
 ### 기초 공부 사이트
-* [100일동안 공부하는 커리큘럼](https://www.hackingwithswift.com/100)
+* [100일동안 공부하는 ](https://www.hackingwithswift.com/100)
 
 ### URLSession
 * [URLSession 정리 블로그](https://kka7.tistory.com/95)
