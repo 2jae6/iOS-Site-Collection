@@ -7,6 +7,7 @@
 ### 기초 iOS 개발 공부 사이트
 * [100일동안 공부하는 사이트](https://www.hackingwithswift.com/100)
 * [네이버 에드위치 iOS 프로젝트](https://www.edwith.org/)
+* [다양한 튜토리얼 해외 강의 사이트](https://www.raywenderlich.com/ios)
 
 ### 개발에 도움되는 사이트
 
@@ -18,6 +19,9 @@
 ### URLSession
 * [URLSession 정리 블로그](https://kka7.tistory.com/95)
 * [URLSession 정리 블로그](https://devmjun.github.io/archive/URLsession)
+
+### Alamofile
+* [Alamofile 기초 정리 블로그](https://devmjun.github.io/archive/Alamofire)
 
 
 ### 그 외 좋은 사이트
