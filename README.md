@@ -20,8 +20,8 @@
 * [URLSession 정리 블로그](https://kka7.tistory.com/95)
 * [URLSession 정리 블로그](https://devmjun.github.io/archive/URLsession)
 
-### Alamofile
-* [Alamofile 기초 정리 블로그](https://devmjun.github.io/archive/Alamofire)
+### Alamofire
+* [Alamofire 기초 정리 블로그](https://devmjun.github.io/archive/Alamofire)
 
 
 ### 그 외 좋은 사이트
