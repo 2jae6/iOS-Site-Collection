@@ -9,12 +9,17 @@
 * [네이버 에드위치 iOS 프로젝트](https://www.edwith.org/)
 * [다양한 튜토리얼 해외 강의 사이트](https://www.raywenderlich.com/ios)
 
+
 ### 개발에 도움되는 사이트
 
 * [코코아팟](https://cocoapods.org/)
 * [appicon 만들어주는 사이트](https://makeappicon.com/)
 * [json 변환 사이트](http://json.parser.online.fr/)
 * [json 변환 사이트](https://app.quicktype.io/)
+
+### RESTAPI
+* [API 테스트 할 수 있는 사이트](https://jsonplaceholder.typicode.com/)
+
 
 ### URLSession
 * [URLSession 정리 블로그](https://kka7.tistory.com/95)
