@@ -9,7 +9,7 @@
 * [100일동안 공부하는 사이트](https://www.hackingwithswift.com/100)
 * [네이버 에드위치 iOS 프로젝트](https://www.edwith.org/)
 * [다양한 튜토리얼 해외 강의 사이트](https://www.raywenderlich.com/ios)
-
+* [if let과 guard let 의 차이?](https://velog.io/@dev-lena/guard-let%EA%B3%BC-if-let%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90)
 
 ### 개발에 도움되는 사이트
 
