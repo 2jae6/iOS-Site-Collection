@@ -28,7 +28,8 @@
 
 ### Alamofire
 * [Alamofire 기초 정리 블로그](https://devmjun.github.io/archive/Alamofire)
-
+* [기본 사용틀? 블로그 지금은 AF로 바뀜](https://usinuniverse.bitbucket.io/blog/httprequest.html)
+* [여기도 참고 많이 했다. 기초로 따라해보면 좋은 프로젝트](https://the-brain-of-sic2.tistory.com/66)
 
 ### 그 외 좋은 사이트
 * [iOS 개발자가 되기위한 로드맵](https://github.com/BohdanOrlov/iOS-Developer-Roadmap)
