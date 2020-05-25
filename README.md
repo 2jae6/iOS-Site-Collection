@@ -52,3 +52,4 @@
 * [백준알고리즘사이트](https://www.acmicpc.net/)
 * [코드업 알고리즘 사이트](https://codeup.kr/problemset.php)
 * [리눅스 재밌는 기능들](http://cloudsemina.com/index.php?mid=linux&document_srl=295)
+* [아스키코드와 유니코드](https://whatisthenext.tistory.com/103)
