@@ -20,6 +20,13 @@
 * [json 변환 사이트](http://json.parser.online.fr/)
 * [json 변환 사이트](https://app.quicktype.io/)
 
+
+### 자료구조 및 알고리즘
+* [Swift로 구현한 큐](https://the-brain-of-sic2.tistory.com/39)
+* [자료구조 및 알고리즘 스터디 방법](https://imasoftwareengineer.tistory.com/93)
+* [자료구조 및 알고리즘 스터디 방법2](https://gmlwjd9405.github.io/2018/05/14/how-to-study-algorithms.html)
+
+
 ### RESTAPI
 * [API 테스트 할 수 있는 사이트](https://jsonplaceholder.typicode.com/)
 
