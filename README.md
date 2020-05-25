@@ -20,6 +20,9 @@
 * [json 변환 사이트](http://json.parser.online.fr/)
 * [json 변환 사이트](https://app.quicktype.io/)
 
+### 디자인패턴
+* [싱글톤 패턴](http://minsone.github.io/mac/ios/singleton-in-swift)
+
 
 ### 자료구조 및 알고리즘
 * [Swift로 구현한 큐](https://the-brain-of-sic2.tistory.com/39)
