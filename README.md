@@ -16,6 +16,9 @@
 * [ARC, GC, Strong, weak, unknown 등등 정리 잘된 블로그](https://medium.com/@jang.wangsu/ios-swift-rc-arc-%EC%99%80-mrc-%EB%9E%80-%EA%B7%B8%EB%A6%AC%EA%B3%A0-strong-weak-unowned-%EB%8A%94-%EA%B0%84%EB%8B%A8%ED%95%98%EA%B2%8C-%EC%A0%81%EC%96%B4%EB%B4%A4%EC%8A%B5%EB%8B%88%EB%8B%A4-988a293c04ac)
 * [델리게이트 패턴 개념](https://zeddios.tistory.com/8)
 * [싱글톤 패턴](https://velog.io/@naroti/iOS-%EA%B0%9C%EB%B0%9C-Singleton-Pattern-q4k3uzgf0n)
+* [클로저 캡처링](https://soooprmx.com/archives/5721)
+
+
 ### 개발에 도움되는 사이트
 * [iOS 메모리 누수-](https://blog.canapio.com/130)
 * [코코아팟](https://cocoapods.org/)
