@@ -13,7 +13,7 @@
 * [앱의 상태주기 설명 좋은 블로그](https://jinshine.github.io/2018/05/28/iOS/%EC%95%B1%EC%9D%98%20%EC%83%9D%EB%AA%85%EC%A3%BC%EA%B8%B0(App%20Life%20Cycle)%EC%99%80%20%EC%95%B1%EC%9D%98%20%EA%B5%AC%EC%A1%B0(App%20Structure)/)
 * [UIWebView와 WKWebkit의 차이점](https://zeddios.tistory.com/332)
 * [Class와 struct의 차이점](https://medium.com/@jgj455/%EC%98%A4%EB%8A%98%EC%9D%98-swift-%EC%83%81%EC%8B%9D-struct-class-60fa5fd2218d)
-
+* [ARC, GC, Strong, weak, unknown 등등 정리 잘된 블로그](https://medium.com/@jang.wangsu/ios-swift-rc-arc-%EC%99%80-mrc-%EB%9E%80-%EA%B7%B8%EB%A6%AC%EA%B3%A0-strong-weak-unowned-%EB%8A%94-%EA%B0%84%EB%8B%A8%ED%95%98%EA%B2%8C-%EC%A0%81%EC%96%B4%EB%B4%A4%EC%8A%B5%EB%8B%88%EB%8B%A4-988a293c04ac)
 * [델리게이트 패턴 개념](https://zeddios.tistory.com/8)
 * [싱글톤 패턴](https://velog.io/@naroti/iOS-%EA%B0%9C%EB%B0%9C-Singleton-Pattern-q4k3uzgf0n)
 ### 개발에 도움되는 사이트
