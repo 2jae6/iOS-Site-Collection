@@ -17,7 +17,7 @@
 * [델리게이트 패턴 개념](https://zeddios.tistory.com/8)
 * [싱글톤 패턴](https://velog.io/@naroti/iOS-%EA%B0%9C%EB%B0%9C-Singleton-Pattern-q4k3uzgf0n)
 * [클로저 캡처링](https://soooprmx.com/archives/5721)
-
+* [뷰컨트롤러의 생명주기](https://zeddios.tistory.com/43)
 
 ### 개발에 도움되는 사이트
 * [iOS 메모리 누수-](https://blog.canapio.com/130)
