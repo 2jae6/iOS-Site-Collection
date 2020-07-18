@@ -20,7 +20,7 @@
 * [뷰컨트롤러의 생명주기](https://zeddios.tistory.com/43)
 
 ### 개발에 도움되는 사이트
-* [iOS 메모리 누수-](https://blog.canapio.com/130)
+* [iOS 메모리 누수](https://blog.canapio.com/130)
 * [코코아팟](https://cocoapods.org/)
 * [appicon 만들어주는 사이트](https://makeappicon.com/)
 * [json 변환 사이트](http://json.parser.online.fr/)
@@ -52,6 +52,8 @@
 ### BreakPoint
 * [다스베이더님 블로그 브레이크 포인트](https://darth-vader.tistory.com/3)
 
+### 면접 자료
+* [면접 질문 및 답변](http://brannpark.github.io/blog/post/20190322_swift_ios_interview_qna/)
 
 ### 그 외 좋은 사이트
 * [iOS 개발자가 되기위한 로드맵](https://github.com/BohdanOrlov/iOS-Developer-Roadmap)
