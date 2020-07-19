@@ -54,7 +54,7 @@
 
 ### 면접 자료
 * [면접 질문 및 답변](http://brannpark.github.io/blog/post/20190322_swift_ios_interview_qna/)
-
+* [많은 면접 기본 자료 깃헙](https://github.com/2jae6/Interview_Question_for_Beginner#%EB%A9%B4%EC%A0%91%EC%97%90%EC%84%9C-%EB%B0%9B%EC%95%98%EB%8D%98-%EC%A7%88%EB%AC%B8%EB%93%A4)
 ### 그 외 좋은 사이트
 * [iOS 개발자가 되기위한 로드맵](https://github.com/BohdanOrlov/iOS-Developer-Roadmap)
 * [iOS 개발자가 되기위한 로드맵](https://github.com/godrm/mobile-developer-roadmap)
