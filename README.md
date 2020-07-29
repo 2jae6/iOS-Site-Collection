@@ -61,6 +61,10 @@
 
 ### UISwift
 * [스텐포드 강의](cs193p.stanford.edu)
+
+### 정적분석 / 동적분석
+* [IPA 다운 받을 수 있는 사이트](https://www.iphonecake.com/)
+
 ### 그 외 좋은 사이트
 * [iOS 개발자가 되기위한 로드맵](https://github.com/BohdanOrlov/iOS-Developer-Roadmap)
 * [iOS 개발자가 되기위한 로드맵](https://github.com/godrm/mobile-developer-roadmap)
