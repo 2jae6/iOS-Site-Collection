@@ -19,6 +19,9 @@
 * [클로저 캡처링](https://soooprmx.com/archives/5721)
 * [뷰컨트롤러의 생명주기](https://zeddios.tistory.com/43)
 * [nib와 xib차이 제드님!](https://zeddios.tistory.com/298)
+* [storyboard, nib, code의 장단점](https://woongsios.tistory.com/3)
+
+
 ### 개발에 도움되는 사이트
 * [iOS 메모리 누수](https://blog.canapio.com/130)
 * [코코아팟](https://cocoapods.org/)
