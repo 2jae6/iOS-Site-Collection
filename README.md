@@ -20,7 +20,7 @@
 * [뷰컨트롤러의 생명주기](https://zeddios.tistory.com/43)
 * [nib와 xib차이 제드님!](https://zeddios.tistory.com/298)
 * [storyboard, nib, code의 장단점](https://woongsios.tistory.com/3)
-
+* [Swift 프로퍼](https://jinshine.github.io/2018/05/22/Swift/6.%ED%94%84%EB%A1%9C%ED%8D%BC%ED%8B%B0(Property)/)
 
 ### 개발에 도움되는 사이트
 * [iOS 메모리 누수](https://blog.canapio.com/130)
