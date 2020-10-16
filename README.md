@@ -55,6 +55,8 @@
 ### BreakPoint
 * [다스베이더님 블로그 브레이크 포인트](https://darth-vader.tistory.com/3)
 
+### 디자인패턴
+* [NotificationCenter](http://seorenn.blogspot.com/2014/05/cocoa-nsnotification.html)
 ### 면접 자료
 * [면접 질문 및 답변](http://brannpark.github.io/blog/post/20190322_swift_ios_interview_qna/)
 * [많은 면접 기본 자료 깃헙](https://github.com/2jae6/Interview_Question_for_Beginner#%EB%A9%B4%EC%A0%91%EC%97%90%EC%84%9C-%EB%B0%9B%EC%95%98%EB%8D%98-%EC%A7%88%EB%AC%B8%EB%93%A4)
