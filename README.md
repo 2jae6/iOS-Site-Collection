@@ -4,10 +4,10 @@
 
 
 
-### 기초 iOS 개발 공부 사이트
 
 
-<details><summary>기초 iOS 개발 공부 </summary>
+
+<details><summary>기초 iOS 개발 공부 사이트 </summary>
 
 * [100일동안 공부하는 사이트](https://www.hackingwithswift.com/100)
 * [네이버 에드위치 iOS 프로젝트](https://www.edwith.org/)
@@ -27,12 +27,15 @@
 
 </details>
   
-### 개발에 도움되는 사이트
+
+<details><summary>개발에 도움되는 사이트 </summary>
 * [iOS 메모리 누수](https://blog.canapio.com/130)
 * [코코아팟](https://cocoapods.org/)
 * [appicon 만들어주는 사이트](https://makeappicon.com/)
 * [json 변환 사이트](http://json.parser.online.fr/)
 * [json 변환 사이트](https://app.quicktype.io/)
+</details>
+
 
 ### 디자인패턴
 * [싱글톤 패턴](http://minsone.github.io/mac/ios/singleton-in-swift)
