@@ -8,7 +8,7 @@
 
 
 <details><summary> 이론 iOS 개발 공부 사이트 </summary>
-
+* [NotificationCenter](http://seorenn.blogspot.com/2014/05/cocoa-nsnotification.html)
 * [100일동안 공부하는 사이트](https://www.hackingwithswift.com/100)
 * [네이버 에드위치 iOS 프로젝트](https://www.edwith.org/)
 * [다양한 튜토리얼 해외 강의 사이트](https://www.raywenderlich.com/ios)
@@ -53,6 +53,8 @@
 * [컨텐츠 허깅, 컴프레스 레지스턴트](https://ontheswift.tistory.com/21)
 
 
+### SwiftUI
+* [스텐포드 강의](cs193p.stanford.edu)
 </details>
   
 
@@ -78,39 +80,42 @@
   
 </details>
 
-
-
-
-
-### 디자인패턴
-* [NotificationCenter](http://seorenn.blogspot.com/2014/05/cocoa-nsnotification.html)
+<details><summary>자료구조 및 알고리즘 </summary>
+  
 ### 면접 자료
 * [면접 질문 및 답변](http://brannpark.github.io/blog/post/20190322_swift_ios_interview_qna/)
 * [많은 면접 기본 자료 깃헙](https://github.com/2jae6/Interview_Question_for_Beginner#%EB%A9%B4%EC%A0%91%EC%97%90%EC%84%9C-%EB%B0%9B%EC%95%98%EB%8D%98-%EC%A7%88%EB%AC%B8%EB%93%A4)
 
+</details>
 
 
-### UISwift
-* [스텐포드 강의](cs193p.stanford.edu)
 
-### 정적분석 / 동적분석
-* [IPA 다운 받을 수 있는 사이트](https://www.iphonecake.com/)
+</details>
 
-
-### 그 외 좋은 사이트
+<details><summary>그 외 사이트 </summary>
+  
 * [iOS 개발자가 되기위한 로드맵](https://github.com/BohdanOrlov/iOS-Developer-Roadmap)
 * [iOS 개발자가 되기위한 로드맵](https://github.com/godrm/mobile-developer-roadmap)
 * [다른분이 만든 iOS 좋은 사이트 모음](https://github.com/ClintJang/awesome-swift-korean-lecture/blob/master/README.md)
-
-
 * [해외 PDF 전자도서 다운](http://gen.lib.rus.ec/)
 * [백준알고리즘사이트](https://www.acmicpc.net/)
 * [코드업 알고리즘 사이트](https://codeup.kr/problemset.php)
 * [리눅스 재밌는 기능들](http://cloudsemina.com/index.php?mid=linux&document_srl=295)
 * [아스키코드와 유니코드](https://whatisthenext.tistory.com/103)
+### 정적분석 / 동적분석
+* [IPA 다운 받을 수 있는 사이트](https://www.iphonecake.com/)
+
+</details>
+
+
+
+
+
+
 
 ### Objective-C
 * [objectiveC -> Swift Convert](https://swiftify.com/converter/code/)
 * [objectiveC Date 날짜 시간 계산](http://goldfing.blogspot.com/2012/09/how-to-objc-nsdate.html)
+
 ### 인생에 도움이 되는 블로그
 * [중소기업 소득세 감면 신청서 연도 계산](https://brunch.co.kr/@dprnrn234/27)
