@@ -29,6 +29,30 @@
 ### 디자인패턴
 * [싱글톤 패턴](http://minsone.github.io/mac/ios/singleton-in-swift)
 
+### RESTAPI
+* [API 테스트 할 수 있는 사이트](https://jsonplaceholder.typicode.com/)
+
+
+### URLSession
+* [URLSession 정리 블로그](https://kka7.tistory.com/95)
+* [URLSession 정리 블로그](https://devmjun.github.io/archive/URLsession)
+
+### Alamofire
+* [Alamofire 기초 정리 블로그](https://devmjun.github.io/archive/Alamofire)
+* [기본 사용틀? 블로그 지금은 AF로 바뀜](https://usinuniverse.bitbucket.io/blog/httprequest.html)
+* [여기도 참고 많이 했다. 기초로 따라해보면 좋은 프로젝트](https://the-brain-of-sic2.tistory.com/66)
+
+### BreakPoint
+* [다스베이더님 블로그 브레이크 포인트](https://darth-vader.tistory.com/3)
+
+
+### 오토레이아웃
+* [오토레이아웃 Equal Size](https://lazyowl.tistory.com/217)
+* [오토레이아웃 Align](https://lazyowl.tistory.com/218)
+* [오토레이아웃 Multiplier](https://lazyowl.tistory.com/219)
+* [컨텐츠 허깅, 컴프레스 레지스턴트](https://ontheswift.tistory.com/21)
+
+
 </details>
   
 
@@ -56,21 +80,7 @@
 
 
 
-### RESTAPI
-* [API 테스트 할 수 있는 사이트](https://jsonplaceholder.typicode.com/)
 
-
-### URLSession
-* [URLSession 정리 블로그](https://kka7.tistory.com/95)
-* [URLSession 정리 블로그](https://devmjun.github.io/archive/URLsession)
-
-### Alamofire
-* [Alamofire 기초 정리 블로그](https://devmjun.github.io/archive/Alamofire)
-* [기본 사용틀? 블로그 지금은 AF로 바뀜](https://usinuniverse.bitbucket.io/blog/httprequest.html)
-* [여기도 참고 많이 했다. 기초로 따라해보면 좋은 프로젝트](https://the-brain-of-sic2.tistory.com/66)
-
-### BreakPoint
-* [다스베이더님 블로그 브레이크 포인트](https://darth-vader.tistory.com/3)
 
 ### 디자인패턴
 * [NotificationCenter](http://seorenn.blogspot.com/2014/05/cocoa-nsnotification.html)
@@ -78,8 +88,7 @@
 * [면접 질문 및 답변](http://brannpark.github.io/blog/post/20190322_swift_ios_interview_qna/)
 * [많은 면접 기본 자료 깃헙](https://github.com/2jae6/Interview_Question_for_Beginner#%EB%A9%B4%EC%A0%91%EC%97%90%EC%84%9C-%EB%B0%9B%EC%95%98%EB%8D%98-%EC%A7%88%EB%AC%B8%EB%93%A4)
 
-### 오토레이아웃
-* [컨텐츠 허깅, 컴프레스 레지스턴트](https://ontheswift.tistory.com/21)
+
 
 ### UISwift
 * [스텐포드 강의](cs193p.stanford.edu)
@@ -87,11 +96,6 @@
 ### 정적분석 / 동적분석
 * [IPA 다운 받을 수 있는 사이트](https://www.iphonecake.com/)
 
-
-### 오토레이아웃
-* [오토레이아웃 Equal Size](https://lazyowl.tistory.com/217)
-* [오토레이아웃 Align](https://lazyowl.tistory.com/218)
-* [오토레이아웃 Multiplier](https://lazyowl.tistory.com/219)
 
 ### 그 외 좋은 사이트
 * [iOS 개발자가 되기위한 로드맵](https://github.com/BohdanOrlov/iOS-Developer-Roadmap)
